@@ -1,5 +1,6 @@
-今天来认识一个新妞：request，她是urllib中的一个模块，下面有请她来自我介绍一下。
+今天来认识一个新妞：request
 ========================================================================
+下面有请她来自我介绍一下。
 官方文档中的说明：
     An extensible library for opening URLs using a variety of protocols
 # 标题3
