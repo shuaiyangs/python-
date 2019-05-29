@@ -8,12 +8,12 @@
 
 ## 主要方法
 
-### urlopen
-'''Python
-
-from urllib.request import urlopen
-
-URL = 'https://www.baidu.com/'
-r = urlopen(URL)#返回一个respond类
-
-'''
+### urlopen()
+     ```Python
+     from urllib.request import urlopen
+     
+     URL = 'https://www.baidu.com'
+     r = urlopen(URL)
+     print(r.read())
+     
+     ```
